@@ -1,2 +1,2 @@
 # Minutes-to-Years-and-Days
-The program converts the input value in minutes to years and days.
+I've wrote a program that prompts the user to enter the minutes and displays the number of years and days for the minutes.
